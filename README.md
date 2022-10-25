@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I am Tharushi Dharmasiri.</h1>
+<h1 align="right">Hii 👋, I am Tharushi Dharmasiri.</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate of KDU.</h3>
 
 <h3 align="left">Connect with me:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I am Tharushi Dharmasiri.</h1>
-<h3 align="left">A passionate Software Engineering Undergraduate of KDU.</h3>
+<h3 align="center">A passionate Software Engineering Undergraduate of KDU.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
